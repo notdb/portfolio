@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Bowen</title>
+    <link>http://douglasbowen.com/</link>
+    <description>Recent content on Douglas Bowen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019 — Douglas Bowen — All rights reserved.</copyright>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://douglasbowen.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://douglasbowen.com/post/2019/01/hello-world/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://douglasbowen.com/post/2019/01/hello-world/</guid>
+      <description>Some lorem ipsum feels appropriate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at ligula in sapien congue blandit vitae sit amet quam. Morbi sollicitudin quam massa, eu elementum neque eleifend vel. Suspendisse pharetra, orci ut aliquam rhoncus, mauris mi tristique turpis, nec imperdiet lectus est et sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras porttitor felis lorem, ac pretium ligula suscipit et.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://douglasbowen.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://douglasbowen.com/about/</guid>
+      <description>About Me I&#39;m a mostly front-end programmer.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://douglasbowen.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://douglasbowen.com/contact/</guid>
+      <description>Email me [here](me -at- douglasbowen -dot- com)</description>
+    </item>
+    
+  </channel>
+</rss>
