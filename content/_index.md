@@ -8,7 +8,7 @@ Be sure to check out my [blog](http://douglasbowen.com/post) or [github](http://
 
 [Where's FGC](http://wheresfgc.com) - Lets people find local fighting game community (fgc) events near them. 
 
-[Waifu Time](http://waifutime.com) - Currently fictional pre-workout supplement intended to be taken 15-30 minutes prior to vigorous exercise.
+<!--[Waifu Time](http://waifutime.com) - Currently fictional pre-workout supplement intended to be taken 15-30 minutes prior to vigorous exercise.-->
 
 [Gacha Gamer](http://gachagamer.com) - A news site specifically covering [gacha](https://en.wikipedia.org/wiki/Gacha_game) games.
 
