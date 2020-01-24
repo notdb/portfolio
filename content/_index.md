@@ -6,10 +6,32 @@ Be sure to check out my [blog](http://douglasbowen.com/post) or [github](http://
 
 ### Projects
 
-[Where's FGC](http://wheresfgc.com) - Lets people find local fighting game community (fgc) events near them. 
+[Where's FGC](http://wheresfgc.com) - A service that connects users to video
+game events near them. 
+
+- Built with React, NodeJS, Express, Google Maps API, and Postgres. 
+
+- Responsible for building the front and back end functionality. 
+
+- Used Google Maps Distance Matrix API for tracking distance between sets of points.
+
+
 
 <!--[Waifu Time](http://waifutime.com) - Currently fictional pre-workout supplement intended to be taken 15-30 minutes prior to vigorous exercise.-->
 
+[Tech2Rent](http://tech2rent.co) - A service that connects users with renters of
+high end electronic equipment used for audio, photo, and video production. 
+
+- Built with: NodeJS, Express, PostgreSql, and AWS. 
+
+- Collaborated remotely with a team of three web developers, one UX/UI designer,
+and two mobile developers to build Tech2Rent over eight weeks. 
+
+- Responsible for designing database schema, and some endpoints for Tech2Rent's backend. Used AWS.S3 SDK to handle image uploading.
+
 [Gacha Gamer](http://gachagamer.com) - A news site specifically covering [gacha](https://en.wikipedia.org/wiki/Gacha_game) games.
 
-[Yell At A Human](http://www.yellatahuman.com) - A service that lets you yell at a human to vent your frustrations before calling custom service to attempt to solve the actual problem you are having with your product or service. Complete with randomized call waiting time and elevator muzak. 
+[Yell At A Human](http://www.yellatahuman.com) - A service that lets you yell at
+a human to vent your frustrations. 
+
+- Complete with randomized call waiting time and elevator muzak. 

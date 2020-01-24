@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Douglas Bowen</title>
+    <title>Home</title>
     <link>http://douglasbowen.com/</link>
-    <description>Recent content on Douglas Bowen</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2019 — Douglas Bowen — All rights reserved.</copyright>
+    <copyright>© 2020 — Douglas Bowen — All rights reserved.</copyright>
     <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://douglasbowen.com/index.xml" rel="self" type="application/rss+xml" />
