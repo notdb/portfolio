@@ -15,8 +15,6 @@ game events near them.
 
 - Used Google Maps Distance Matrix API for tracking distance between sets of points.
 
-
-
 <!--[Waifu Time](http://waifutime.com) - Currently fictional pre-workout supplement intended to be taken 15-30 minutes prior to vigorous exercise.-->
 
 [Tech2Rent](http://tech2rent.co) - A service that connects users with renters of
@@ -29,9 +27,17 @@ and two mobile developers to build Tech2Rent over eight weeks.
 
 - Responsible for designing database schema, and some endpoints for Tech2Rent's backend. Used AWS.S3 SDK to handle image uploading.
 
-[Gacha Gamer](http://gachagamer.com) - A news site specifically covering [gacha](https://en.wikipedia.org/wiki/Gacha_game) games.
+[Gacha Gamer](http://gachagamer.com) - A news site specifically covering
+[gacha](https://en.wikipedia.org/wiki/Gacha_game) games.
 
+- Built with: React, Next.JS
+
+- Responsible for UI design and general content
+
+
+<!--
 [Yell At A Human](http://www.yellatahuman.com) - A service that lets you yell at
 a human to vent your frustrations. 
 
 - Complete with randomized call waiting time and elevator muzak. 
+-->

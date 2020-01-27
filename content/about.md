@@ -1,3 +1,3 @@
 # About Me
 
-I'm a mostly front-end programmer. 
+I'm a full stack web developer with an interest in back-end development. Prior experience in sales has helped developed the ability to succeed in a results driven environment. 
