@@ -77,3 +77,21 @@ div.footer {
 div.copyright {
     color: #948C75;
 }
+
+img {
+    
+    width: 70%;
+    height: 100%;
+}
+
+.headings {
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+
+
+.headings p:nth-child(1) {
+    display:flex;
+    justify-content: center;
+}

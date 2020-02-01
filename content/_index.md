@@ -1,12 +1,21 @@
-## Welcome to my site
 
-There's a list of my current projects below.
 
-Be sure to check out my [blog](http://douglasbowen.com/post) or
-[github](http://github.com/notdb) to see my latest projects.
+## Welcome to my portfolio
+{{% headerthing %}}
 
 ![headshot](headshot.png)
-	
+
+
+
+
+
+Be sure to check out my [blog](http://douglasbowen.com/post) or
+[github](http://github.com/notdb) to see my latest projects. There's a list of my current projects below.
+
+
+
+{{% /headerthing %}}
+
 ## Projects
 
 
