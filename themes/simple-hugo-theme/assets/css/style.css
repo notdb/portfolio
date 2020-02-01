@@ -26,6 +26,14 @@ article {
     
 }
 
+.card ul {
+    margin-top: -1em;
+}
+
+.card p {
+    margin-top: auto;
+}
+
 h1,
 h2,
 h3 {

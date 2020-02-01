@@ -2,7 +2,8 @@
 
 There's a list of my current projects below.
 
-Be sure to check out my [blog](http://douglasbowen.com/post) or [github](http://github.com/notdb) to see what I've been up to lately.
+Be sure to check out my [blog](http://douglasbowen.com/post) or
+[github](http://github.com/notdb) to see my latest projects.
 
 
 ## Projects
