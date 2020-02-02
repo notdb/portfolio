@@ -10,7 +10,7 @@
 
 
 Be sure to check out my [blog](http://douglasbowen.com/post) or
-[github](http://github.com/notdb) to see my latest projects. There's a list of my current projects below.
+[GitHub](http://github.com/notdb) to see my latest projects. There's a list of my current projects below.
 
 
 
