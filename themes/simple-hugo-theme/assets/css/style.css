@@ -8,7 +8,7 @@ body {
     line-height: 1.6;
     font-size: 18px;
     padding: 0 10px;
-    background-color: #D9CEB2;
+    //background-color: #D9CEB2;
 }
 
 article {
@@ -22,7 +22,7 @@ article {
     flex-direction: column;
     margin: 1.25em;
     padding: 1.25em;
-    box-shadow: 0.35em 0.45em 0 #7A6A53;
+    box-shadow: 0.35em 0.45em 0 #D9CEB2;
     
 }
 
@@ -83,7 +83,7 @@ div.footer {
 }
 
 div.copyright {
-    color: #948C75;
+    //color: #948C75;
 }
 
 img {
