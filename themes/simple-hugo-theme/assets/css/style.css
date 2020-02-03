@@ -137,5 +137,8 @@ img {
 	display: flex;
 	flex-direction: column;
     }
-    
+
+    .header-menu {
+	padding-top: 0.5em;
+    }
 }
