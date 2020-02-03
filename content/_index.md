@@ -35,7 +35,8 @@ A service that connects users to video game events near them.
 <!--[Waifu Time](http://waifutime.com) - Currently fictional pre-workout supplement intended to be taken 15-30 minutes prior to vigorous exercise.-->
 {{% card %}}
 #### [Tech2Rent](http://tech2rent.co)
-A service that connects users with renters of high end electronic equipment used for audio, photo, and video production. 
+A service that connects users with renters of high end electronic equipment used
+for audio, photo, and video production. 
 
 - Built with: NodeJS, Express, PostgreSql, and AWS. 
 
