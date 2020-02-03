@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     margin: 40px auto;
     max-width: 650px;
@@ -25,6 +26,16 @@ article {
     box-shadow: 0.35em 0.45em 0 #D9CEB2;
     
 }
+
+a:link {
+    color: #7A6A53;
+}
+
+a:visited {
+    color: #99B2B7;
+}
+    
+
 
 .card ul {
     margin-top: -.25em;
@@ -109,6 +120,8 @@ img {
     width: 100%;
     padding-bottom: 1.5em;
 }
+
+
 
 @media (max-width: 600px) {
 
