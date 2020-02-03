@@ -126,5 +126,16 @@ img {
     display:flex;
     justify-content: center;
     }
+
+    div.header h1 {
+	padding-top: 0;
+	padding-bottom: 8px;
+	margin-bottom: 24px;
+	font-size: 18px;
+	font-weight: 400;
+	border-bottom: 0;
+	display: flex;
+	flex-direction: column;
+    }
     
 }
