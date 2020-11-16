@@ -109,11 +109,14 @@ img {
     justify-content: space-evenly;
 }
 
-
+/*
 .headings p:nth-child(1) {
-    display:flex;
-    justify-content: center;
+
+display:flex;
+justify-content: center;
+
 }
+*/
 
 .headings p:nth-child(2) {
     padding-top: .5em;

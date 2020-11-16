@@ -7,19 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 — Douglas Bowen — All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://douglasbowen.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>http://douglasbowen.com/post/2019/01/hello-world/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Thoughs About Scrimba</title>
+      <link>http://douglasbowen.com/post/2020/10/thoughs-about-scrimba/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://douglasbowen.com/post/2019/01/hello-world/</guid>
-      <description>Some lorem ipsum feels appropriate.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at ligula in sapien congue blandit vitae sit amet quam. Morbi sollicitudin quam massa, eu elementum neque eleifend vel. Suspendisse pharetra, orci ut aliquam rhoncus, mauris mi tristique turpis, nec imperdiet lectus est et sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras porttitor felis lorem, ac pretium ligula suscipit et.</description>
+      <guid>http://douglasbowen.com/post/2020/10/thoughs-about-scrimba/</guid>
+      <description>What is Scrimba? According to their website, Scrimba is a platform for learning to code. It&#39;s mostly focused on front-end development at the moment, but could easily be expanded upon in the future.
+How does it work Scrimba is essentially web IDE, similar to CodeSandbox, Repl.it, or CodePen. The main difference is that it also has a built in screencast. If you&#39;ve ever tried to follow a YouTube tutorial for something programming related, you&#39;ve probably had the experience where you&#39;re constantly stopping and starting the video to copy and paste (or rather type up) examples from the video.</description>
     </item>
     
   </channel>

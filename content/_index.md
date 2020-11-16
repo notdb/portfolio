@@ -3,7 +3,7 @@
 ## Welcome to my portfolio
 {{% headerthing %}}
 
-![headshot](headshot.png)
+
 
 
 
